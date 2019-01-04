@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+
+484848484848
+csaasdasdasdas
+asd
+asd
+xcz
+
+return 0;
+}
